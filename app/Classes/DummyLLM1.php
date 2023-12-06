@@ -14,7 +14,4 @@ class DummyLLM1
         $val = rand(0, 5);
         return $this->data[$val];
     }
-
-
-
 }
